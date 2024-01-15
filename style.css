@@ -40,6 +40,12 @@ p{
     opacity: 0;
 }
 
+.credit{
+    position: fixed;
+    bottom: 5px;
+    left: 45%;
+}
+
 .fade{
     opacity: 1;
     transition: opacity 1.5s;
